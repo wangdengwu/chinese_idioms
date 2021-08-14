@@ -1,6 +1,6 @@
 name: chinese_idioms
 description: chinese idioms
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/wangdengwu/chinese_idioms
 
 environment:

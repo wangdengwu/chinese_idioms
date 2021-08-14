@@ -8,7 +8,7 @@ A package containing the most ~5000 used Chinese idioms and some utility functio
 
 Printing the top 50 most used idioms in the Chinese language:
 
-    import 'package:english_words/english_words.dart';
+    import 'package:chinese_idioms/chinese_idioms.dart';
 
     main() {
       generateIdioms().take(50).forEach(print);
