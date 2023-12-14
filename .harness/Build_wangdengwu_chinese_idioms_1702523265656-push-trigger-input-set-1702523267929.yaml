@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_wangdengwu_chinese_idioms_1702523265656-push-trigger-input-set
+  identifier: Build_wangdengwu_chinese_idioms_1702523265656pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_wangdengwu_chinese_idioms_1702523265656
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
